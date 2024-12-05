@@ -1,0 +1,21 @@
+{
+  "$schema": "file:///C:/Repos/private/minecraft_launcher/Nebula/workspace/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "Small_Animals (Minecraft 1.21.1)",
+    "description": "Small_Animals Running Minecraft 1.21.1 (Fabric v0.16.9)",
+    "icon": "",
+    "address": "dkdnfk.myds.me",
+    "discord": {
+      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    },
+    "mainServer": true,
+    "autoconnect": true
+  },
+  "fabric": {
+    "version": "0.16.9"
+  },
+  "untrackedFiles": []
+}
